@@ -1,0 +1,27 @@
+# Harish Gowda Patil — Resume
+
+📄 Data Analyst | SQL · Python · Power BI | ETL Pipelines & Business Intelligence
+
+## About
+This repository contains my up-to-date professional resume.
+
+## Download
+[📥 Download Resume (PDF)](./Harish_Gowda_Patil_Resume.pdf)
+
+## Skills Snapshot
+- **Languages:** Python (Pandas, NumPy, Matplotlib), SQL, DAX
+- **BI & Visualization:** Power BI, Excel (Power Query, Pivot Tables)
+- **Data Engineering:** ETL Pipelines, Medallion Architecture, Star Schema, Data Warehousing
+- **Databases & Tools:** MySQL, PostgreSQL, Jupyter Notebook, GitHub
+
+## Portfolio Projects
+| Project | Stack | Link |
+|---|---|---|
+| Sales Performance & Risk Analysis | Python, Power BI | [View](#) |
+| Bank Loan Portfolio Analysis | MySQL, Power BI | [View](#) |
+| SQL Data Warehouse – Medallion Architecture | MySQL, ETL, Star Schema | [View](#) |
+
+## Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/harish-patil23)
+- 💻 [GitHub](https://github.com/HarishPatil23)
+- 📧 harishgowdapatil23@gmail.com
