@@ -6,7 +6,7 @@
 This repository contains my up-to-date professional resume.
 
 ## Download
-[📥 Download Resume (PDF)]([Harish_Gowda_Patil_Resume.pdf](https://github.com/HarishPatil23/resume/blob/main/Harish_Gowda_Patil_Resume%20.pdf)
+[📥 Download Resume (PDF)](https://github.com/HarishPatil23/resume/blob/main/Harish_Gowda_Patil_Resume%20.pdf)
 
 ## Skills Snapshot
 - **Languages:** Python (Pandas, NumPy, Matplotlib), SQL, DAX
